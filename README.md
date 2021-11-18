@@ -1,7 +1,7 @@
 # #230 Ultimate Switch Bounce Eliminator
 
 ![ThumbnailSmall](https://user-images.githubusercontent.com/20911308/141994731-71e39554-67a0-4469-a801-19593dae7c1f.jpg)  
-Direct link to video: https://  
+Direct link to video: https://youtu.be/b2uUYiGrS5Y
 
 ### It's time to try a final, alternative approach to the ubiquitous switch bounce problem.
 
